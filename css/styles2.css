@@ -1,0 +1,14 @@
+h1{
+  color: red;
+  text-align: center;
+}
+h2{
+  text-align: center;
+  color: aqua;
+}
+p{
+  font-style: italic;
+  font-family: Times New Roman;
+  font-size: 20px;
+  line-height: 40px;
+}
