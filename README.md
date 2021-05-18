@@ -1,8 +1,8 @@
-# _{My First Website}_
+# _My First Website_
 
-#### _{This is my first website.}_
+#### _This is my first website._
 
-#### By _**{Bably Kumari}**_
+#### By _**Bably Kumari**_
 
 ## Technologies Used
 
@@ -11,7 +11,7 @@
 
 ## Description
 
-_{This is a coding practise website.It also has an image of kitten. }_
+_This is a coding practise website.It also has an image of kitten. _
 
 ## Setup/Installation Requirements
 
@@ -28,8 +28,8 @@ _{This is a coding practise website.It also has an image of kitten. }_
 
 ## License
 
-_{Epicodus.ltd}_
+_Epicodus.ltd_
 
 ## Contact Information
 
-_{[email me @](bablyhyd@gmail.com)}_
+_[email me @](bablyhyd@gmail.com)_
